@@ -17,7 +17,7 @@ This repository uses Python 3.11
 pip install -r requirements.txt
 ```
 
-2. Download the dataset from [here](Here) and place it in the `data/` directory.
+2. Download the dataset from [here](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data) and place it in the same directory as the training code.
 3. Run the Jupyter Notebook to train the model:
 
 ```bash
